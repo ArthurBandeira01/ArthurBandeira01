@@ -10,6 +10,4 @@ Here are some ideas to get you started:
 - :man_student: Computer technician
 - Country: :brazil:
 
-- :camera_flash: How to reach me: 
-
 
