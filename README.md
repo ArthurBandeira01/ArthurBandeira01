@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - :man_student: Computer technician
 - Country: :brazil: :brazil:
 
-** :camera: where to find me:
+<h2>:camera: Where to find me:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
