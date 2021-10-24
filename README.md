@@ -2,13 +2,20 @@
 
 <h2>:pencil2: Fast Apresentation</h2>
 
-- :office: I’m currently working on Alpha Castt
+- :office: I’m currently working on Code Alpha
 - :book: I’m currently learning JavaScript
-- :heavy_check_mark: My current Front-End knowledge is in HTML5, CSS3, JavaScript, Jquery, SASS, Bootstrap
+- :heavy_check_mark: My current Front-End knowledge is in HTML5, CSS3, JavaScript, Jquery, SASS, Bootstrap, GIT
 - :heavy_check_mark: My current Back-End knowledge is in PHP and MySQL
 - :man_student: My college: Systems for internet
 - :man_student: Computer technician
 - Country: :brazil: :brazil:
+<br>
+<div>
+  <a href="https://github.com/ArthurBandeira01">
+    <img height="180em" src="http://github-readme-stats.vercel.app/api?username=ArthurBandeira01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBandeira01&layout=compact&langs_count=16&theme=dracula"/>       
+  </a>
+ </div>
 
 <h2>:calling: Contact:</h2>
 
