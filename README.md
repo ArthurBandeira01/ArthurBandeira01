@@ -2,7 +2,6 @@
 
 <h2>:pencil2: Fast Apresentation</h2>
 
-- :office: I’m currently working on Alpha Castt
 - :book: I’m currently learning JavaScript
 - :heavy_check_mark: My current Front-End knowledge is in HTML5, CSS3, JavaScript, Jquery, JSON, SASS, Gulp.js, Bootstrap, Vue JS, GIT, UI/UX
 - :heavy_check_mark: My current Back-End knowledge is in PHP, MySQL
