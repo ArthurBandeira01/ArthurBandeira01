@@ -2,9 +2,9 @@
 
 <h2>:pencil2: Fast Apresentation</h2>
 
-- :book: I’m currently learning JavaScript
+- :book: I’m currently learning Laravel
 - :heavy_check_mark: My current Front-End knowledge is in HTML5, CSS3, JavaScript, Jquery, JSON, SASS, Gulp.js, Bootstrap, Vue JS, GIT, UI/UX
-- :heavy_check_mark: My current Back-End knowledge is in PHP, MySQL
+- :heavy_check_mark: My current Back-End knowledge is in PHP, MySQL, Laravel, Code Igniter
 - :man_student: My college: Systems for internet
 - :man_student: Computer technician
 - Country: :brazil: :brazil:
