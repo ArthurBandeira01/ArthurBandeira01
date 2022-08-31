@@ -7,7 +7,7 @@
 - :heavy_check_mark: My current Back-End knowledge is in PHP, MySQL, Laravel, Code Igniter
 - :man_student: Postgraduate degree in IT Governance
 - :man_student: My college: Systems for internet
-- :man_student: Computer technician
+- :man_student: Computer Technician
 - Country: :brazil: :brazil:
 <br>
 <div>
