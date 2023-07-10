@@ -1,1 +1,21 @@
+name: Update Time
 
+on:
+  schedule:
+    - cron: '0 * * * *' # Atualiza a cada hora
+
+jobs:
+  update_time:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+
+      - name: Update time
+        run: |
+          echo $(date +"%Y-%m-%d %H:%M:%S") > time.txt
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add time.txt
+          git commit -m "Update time [skip ci]"
+          git push
