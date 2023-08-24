@@ -38,17 +38,18 @@
 <h2>:iphone: Socials:</h2>
 <p align="left">
   <a target="_blank" href="https://www.facebook.com/arthur.silva3">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
   <a href="https://www.instagram.com/arthur_bandeira66/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/arthur-bandeira-da-silva/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a hre="https://github.com/ArthurBandeira01" target="_blank">
+  <a href="https://github.com/ArthurBandeira01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a hre="https://portfolio.alphacastt.com.br/" target="_blank">
+  <a href="https://portfolio.alphacastt.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 </p>
