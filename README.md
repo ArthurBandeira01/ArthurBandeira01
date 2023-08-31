@@ -3,8 +3,8 @@
 <h2>:pencil2: Fast Apresentation</h2>
 
 - :book: I’m currently working with Laravel
-- :heavy_check_mark: My current Front-End knowledge is in HTML5, CSS3, JavaScript, Jquery, JSON, SASS, Gulp.js, Bootstrap, Vue JS, GIT, UI/UX
 - :heavy_check_mark: My current Back-End knowledge is in PHP, MySQL, Laravel, Code Igniter
+- :heavy_check_mark: My current Front-End knowledge is in HTML5, CSS3, JavaScript, Jquery, JSON, SASS, Gulp.js, Bootstrap, Tailwind, Vue , GIT, UI/UX
 - :man_student: Postgraduate in IT Governance
 - :man_student: Postgraduate in Technology Management
 - :man_student: Postgraduate in Data Science
