@@ -110,7 +110,7 @@
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black">
 </p>
-
+<br>
 <div align="center">
   <img align="center" src="https://raw.githubusercontent.com/ArthurBandeira01/ArthurBandeira01/master/gifgit.gif" title="Footer" alt="Footer" width="100%" style="max-width:100%;">
 </div>
