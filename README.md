@@ -1,5 +1,5 @@
 <p dir="auto">
-  <img align="center" src="https://github.com/ArthurBandeira01/ArthurBandeira01/blob/master/Header%20Github.png" width="100%" style="max-width:100%;">
+  <img align="center" src="https://raw.githubusercontent.com/ArthurBandeira01/ArthurBandeira01/master/Arthur%20bandeira.png" title="Header" alt="Header" width="100%" style="max-width:100%;">
 </p>
 
 ### Hi there :wave: :wave: :tada: :tada: 
