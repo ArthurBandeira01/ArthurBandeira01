@@ -1,3 +1,7 @@
+<p dir="auto">
+  <img align="center" src="https://github.com/ArthurBandeira01/ArthurBandeira01/blob/master/Header%20Github.png" width="100%" style="max-width:100%;">
+</p>
+
 ### Hi there :wave: :wave: :tada: :tada: 
 
 <h2>:pencil2: Fast Apresentation</h2>
