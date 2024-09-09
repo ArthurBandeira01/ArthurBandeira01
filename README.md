@@ -17,9 +17,11 @@
 - Country: :brazil: :brazil:
 <br>
 <div>
+  <a href="https://github.com/ArthurBandeira01">
     <img height="180em" src="http://github-readme-stats.vercel.app/api?username=ArthurBandeira01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBandeira01&layout=compact&langs_count=16&theme=dracula"/>       
- </div>
+  </a>
+</div>
 
 <h2>:calling: Contact:</h2>
 
